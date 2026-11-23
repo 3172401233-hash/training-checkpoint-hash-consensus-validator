@@ -1,0 +1,13 @@
+{
+  "name": "training-checkpoint-hash-consensus-validator",
+  "version": "1.0.0",
+  "description": "验证检查点分片摘要、提交清单和节点共识",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
